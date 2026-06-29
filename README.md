@@ -252,21 +252,6 @@ Os testes cobrem:
 Veja o diagrama completo com fluxo de dados e fluxo de decisão do agente em [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ---
-
-## 🔮 Próximos Passos / Extensões
-
-- [ ] Adicionar Fairness/Bias Analysis (AI Fairness 360)
-- [ ] Implementar monitoramento de drift do modelo (Evidently AI)
-- [ ] Adicionar autenticação JWT na API
-- [ ] Dashboard de monitoramento com Grafana
-- [ ] Retreino automático com Airflow/Prefect
-- [ ] Deploy em cloud com Kubernetes
-- [ ] A/B testing de modelos champion/challenger
-- [ ] Integração com bureau de crédito real (Serasa API)
-- [ ] Adicionar mais modelos (LightGBM, CatBoost) com ensemble
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
